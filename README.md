@@ -7,7 +7,7 @@ https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
 <h3>Folder Structure </h3>
 
-* <b>samplesubmissions</b> - Contins some of the submissions made
+* <b>samplesubmissions</b> - Contains some of the submissions made
 * <b>input</b> - File structure of the data provided
 * <b>eda.r</b> - Exploratory data analysis of the data provided
 * <b>session_data_prep.r</b> - Transform sessions data to be used along with other data sources
